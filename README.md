@@ -18,9 +18,9 @@ dsh web   # 重启后侧栏 Settings 旁常驻「插件市场」按钮
 ## 目录
 
 - [界面与主题](#ui) (2365)
-- [会话与记忆](#session) (2168)
+- [会话与记忆](#session) (2167)
 - [Agent 与工作流](#agent) (1605)
-- [工具与集成](#tools) (1128)
+- [工具与集成](#tools) (1129)
 - [开发与输入](#dev) (606)
 - [通信与移动](#comm) (378)
 - [安全与权限](#auth) (549)
@@ -2953,7 +2953,6 @@ dsh web   # 重启后侧栏 Settings 旁常驻「插件市场」按钮
 - [dsh-mcp-connect](https://github.com/Chhlafiu4312/dsh-mcp-bridge) Zero-dependency MCP client bridge for DeepSeek Harness: connects stdio/HTTP MCP servers an ⭐ 3 ⬇ 0 · 手动安装
 - [dsh-llm-longcat](https://github.com/ffyuuu/dsh-llm-longcat) LongCat (LongCat-2.0) adapter for the DeepSeek Harness LLM seam — 1M context, thinking mod ⭐ 3 ⬇ 0
 - [dsh-mcp-manager](https://github.com/zhang-guo-wen/dsh-mcp-manager) MCP server management for DeepSeek Harness: author composition rows, choose when an allowe ⭐ 3 ⬇ 0 · 手动安装
-- [dsh-mcp-tools](https://github.com/hxlog/dsh-mcp-tools) Manage your MCP servers and toggle MCP tools on demand inside DeepSeek Harness settings ⭐ 3 ⬇ 19 · v1.0.2
 - [dsh-web-service](https://github.com/toddpan/dsh-webapi) Expose DSH over HTTP: 80+ REST + SSE routes for workspaces, sessions (streaming, history,  ⭐ 3 ⬇ 1.2k · 官方脚本安装 · v0.6.1
 - [dsh-ark-wiki](https://github.com/wsk114514/dsh-ark-wiki) Arknights (明日方舟) tools for DSH: PRTS Wiki lookup (operators, skills, talents, archives, it ⭐ 3 ⬇ 0 · v0.4.0
 - [dsh-trellis](https://github.com/SajoLuo/dsh-trellis) Trellis workflow integration for DeepSeek Harness: per-turn workflow-state breadcrumbs, ut ⭐ 3 ⬇ 0 · 手动安装 · v0.1.11
@@ -6894,6 +6893,7 @@ dsh web   # 重启后侧栏 Settings 旁常驻「插件市场」按钮
 - [dsh-local-project](https://github.com/0xKcyzz/dsh-local-project) DSH plugin: import a local folder as a server workspace and sync DSH changes back to local ⭐ 1 ⬇ 0
 - [deepseek-harness-plugins](https://github.com/meliodascz89/deepseek-harness-plugins) Community plugins for DeepSeek Harness: local-vision (Ollama image description) and claude ⭐ 1 ⬇ 0 · 未验证
 - [dsh-plugins-workspace](https://github.com/SisyphusSQ/dsh-plugins) A monorepo for composable DeepSeek Harness (DSH) plugins. ⭐ 1 ⬇ 0 · 未验证 · 手动安装 · v0.1.0
+- [MCP 工具管理器](https://github.com/hxlog/dsh-mcp-tools) 在 DeepSeek Harness 设置里管理 MCP 服务器与工具：支持 streamable-http / stdio、Postman 式请求头、连通性测试，并按工具开关—— ⭐ 0 ⬇ 0 · 1.0.2
 - [dsh-3d-model-viewer](https://github.com/lishLRF/dsh-3d-model-viewer) 在 DSH Web 界面查看 OBJ/STL/STEP 三维模型，并转译为标准化、LLM 可读的 JSON（含语义分析），一键发送给 AI。 ⭐ 0 ⬇ 0 · v0.1.1
 - [dsh-laya](https://github.com/PerryLink/dsh-laya) Laya typed decisions (`noul` yes/no, `choice`, `score`) as a first-class Cordis service pl ⭐ 0 ⬇ 0
 - [dsh-library](https://github.com/PerryLink/dsh-library) Local document knowledge base for a workspace: hybrid semantic and keyword retrieval, dive ⭐ 0 ⬇ 0
